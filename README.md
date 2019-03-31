@@ -1,4 +1,4 @@
-# Shell Exercise
+# Shell Exercise :dart:
 Record some exercise codes in bash
 ## Loops
 
