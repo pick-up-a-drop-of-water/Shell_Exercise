@@ -1,5 +1,6 @@
 # Shell Exercise :dart:
-> Record some exercise codes in bash
+> - Record some exercise codes in bash
+> - 🔗[Shell 笔记](https://blog.csdn.net/weixin_43982238/article/details/90711716)
 ## Loops
 
 > #### In this exercise, you will need to loop through and print out all even numbers from the numbers list in the same order they are received. Don't print any numbers that come after 237 in the sequence.
